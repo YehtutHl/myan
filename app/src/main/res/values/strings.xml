@@ -1,0 +1,47 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    //Title for keyboard
+    <string name="app_name">myan</string>
+
+    //word separators
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+
+    //labels on enter key
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+
+    //label for subtypes
+    <string name="label_subtype_en_GB">English</string>
+    <string name="label_subtype_my_MM">မြန်မာ</string>
+
+    //title for ImePreference
+    <string name="settings_name">myan setting</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+    <string name="general_category">General</string>
+    <string name="test_keyboard_title">Test Keyboard</string>
+    <string name="test_keyboard_summ">Test myan Keyboard</string>
+    <string name="go_to_ime_setting">Enable Keyboard</string>
+    <string name="go_to_ime_setting_summ">Go to Language and Input Method Settings</string>
+    <string name="choose_keyboard_title">Choose Keyboard</string>
+    <string name="choose_keyboard_summ">Select myan Keyboard</string>
+    <string name="play_sound_title">Key Press Sound</string>
+    <string name="play_sound_summ">Enable/Disable Sound on Key Press</string>
+    <string name="switch_ime_title">Allow switching to another keyboard</string>
+    <string name="switch_ime_summ">Enable/Disable switching to another keyboard, for Multi-lingual users</string>
+
+    //sets of strings for handling myanmar input
+    <string name="myanmar_consonants">ကခဂဃငစဆဇဈဉညဋဌဍဎဏတထဒဓနပဖဗဘမယရလဝသဿဟဠအ</string>
+    <string name="tall_a">ခဂငဎဒဓပဝ</string>
+    <string name="myanmar_medials">ျြွှ</string>
+    <string name="myanmar_vow">ါာိီုူေဲံ့း္်</string>
+    <string name="id_vow">ဣဤဥဦဧဩဪ</string>
+    <string name="myanmar_num">၀၁၂၃၄၅၆၇၈၉</string>
+    <string name="myanmar_sym">၌၍၏</string>
+
+    <string name="vow_a">ါာ</string>
+    <string name="vow_i">ိီ</string>
+    <string name="vow_u">ုူ</string>
+    <string name="tone">့း</string>
+    <string name="asat">္်</string>
+</resources>

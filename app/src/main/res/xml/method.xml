@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.renova.smartmyan.ImePreferences"
+    android:supportsSwitchingToNextInputMethod="true">
+
+    <subtype
+        android:imeSubtypeLocale="en_GB"
+        android:label="@string/label_subtype_en_GB"
+        android:imeSubtypeExtraValue="1"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:imeSubtypeLocale="my_MM"
+        android:label="@string/label_subtype_my_MM"
+        android:imeSubtypeExtraValue="2"
+        android:imeSubtypeMode="keyboard" />
+</input-method>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/settings_name">
+
+    <Preference
+        android:key="go_to_ime"
+        android:summary="@string/go_to_ime_setting_summ"
+        android:title="@string/go_to_ime_setting">
+    </Preference>
+
+    <Preference
+        android:key="choose_keyboard"
+        android:summary="@string/choose_keyboard_summ"
+        android:title="@string/choose_keyboard_title">
+    </Preference>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="play_sound"
+        android:summary="@string/play_sound_summ"
+        android:title="@string/play_sound_title"/>
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="switch_ime"
+        android:summary="@string/switch_ime_summ"
+        android:title="@string/switch_ime_title"/>
+
+    <EditTextPreference
+        android:key="test_keyboard_text"
+        android:summary="@string/test_keyboard_summ"
+        android:title="@string/test_keyboard_title"/>
+
+</PreferenceScreen>

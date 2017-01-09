@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">55dip</dimen>
+    <dimen name="candidate_font_height">20sp</dimen>
+    <dimen name="double_tap_key_size">15sp</dimen>
+    <dimen name="candidate_vertical_padding">20sp</dimen>
+</resources>
